@@ -3,18 +3,18 @@
 # Step 2: Finding a Dataset for your Project
 
 **Selected Dataset**
-Dataset Title
-Dataset Description
-Dataset Link
+Dataset Title  
+Dataset Description   
+Dataset Link    
 
-**Problem Statement**
+**Problem Statement**   
 The objective of this project is to deliver insights to understand customer demands better and thus help developers to popularize the product. This project involves loading the data into data frame, cleaning the data, extracting statistics from the dataset, exploratory analysis and visualizations, and asking & answering questions.  
   
 The aim of this project is to find out which are the most relevant features that students consider to choose the preferred American university. Some of the essential questions for developing this project are related to the number of applications, admissions, and enrollments, cost of tuition and fees, cost of living on campus, types of degrees offered, and features of the states where universities are located (population and GDP).
 
-**Step 3: Preparing an Outline & Deadlines - Planning**  
+# Step 3: Preparing an Outline & Deadlines - Planning
 
-Outline for a Data Analysis Project
+Outline for a Data Analysis Project   
 
 1. Perform data preparation & cleaning
     - Load the dataset into a data frame using Pandas
@@ -58,5 +58,5 @@ Outline for a Data Analysis Project
 - EDA
 - Medium/LinkedIn Blog post
 - Portfolio (Streched)
-- 
+- Resume (Streched)
  
