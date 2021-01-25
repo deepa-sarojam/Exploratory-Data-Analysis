@@ -1,4 +1,4 @@
-# deepz-computing-machine
+# Exploratory Data Analysis on NetFlix, Amazon Prime, Disney+ and Hulu real time data. 
 # Step 1: Finding a Project Topic/Idea/Domain
 
 **Project Dataset**  
@@ -21,6 +21,6 @@ The aim of this project is to find out which are the most relevant features that
 **Project Deliverables**   
 
 - Jupyter notebook
-- Trained machine learning model
-- Blog post
-- Web application
+- EDA
+- Medium/LinkedIn Blog post
+ 
