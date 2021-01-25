@@ -12,11 +12,11 @@ The aim of this project is to find out which are the most relevant features that
 
 **Project Outline & Timeline**  
 
-- [x] Finalize Dataset 
+- [ ] Finalize Dataset 
     * Write some description here
 - [ ]  Dataset Parsing and Cleaning 
     * Write some description here
-- [ ]
+- [x]
 
 **Project Deliverables**   
 
