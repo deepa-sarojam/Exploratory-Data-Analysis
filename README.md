@@ -71,7 +71,7 @@ The aim of this project is to find out which are the most relevant features that
   | Task                                 | End Date     | Status                                                                 
   |--------------------------------------|--------------|---------------------------------------------------------------------  
   | Webscrap the Dataset - Watch Videos  | 1/26         | In- Progress                                                       
-  | Practise - Beautiful Soup            | 1/25         |                                                         
+  | Practise - Beautiful Soup            | 1/27         | In- Progress                                                         
   | Dataset Preparation                  | TBD          |                                                    
   | Dataset Cleaning                     | TBD          |                                                       
   | EDA and Data Visualization           | TBD          |                                                       
@@ -86,7 +86,7 @@ The aim of this project is to find out which are the most relevant features that
           - [ ] Notebook: https://github.com/ruch798/Movies-and-TV-shows
           - [ ] Notebook: https://jovian.ai/viewer?url=https%3A%2F%2Fgithub.com%2Fruch798%2FMovies-and-TV-shows%2Fblob%2Fmaster%2FData_scraping.ipynb
           - [X] Watch: https://www.youtube.com/watch?v=87Gx3U0BDlo 
-           - [ ] Practise sample - 1/25
+           - [ ] Practise sample - 1/27
           - [ ] Watch: https://www.youtube.com/watch?v=ng2o98k983k
 - [ ] Dataset Preparation 
     - [ ] What are the questions I can ask? 
