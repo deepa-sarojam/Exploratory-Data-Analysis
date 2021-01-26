@@ -7,13 +7,13 @@
 ## Step 2: Finding a Dataset for your Project
 
 **Selected Dataset**    
-- [ ] Webscrap the Dataset
- - [ ] Webscrap the NetFlix, Amazon Prime, Disney+ and Hulu data using BeautifulSoup  
+- Webscrap the Dataset
+ - Webscrap the NetFlix, Amazon Prime, Disney+ and Hulu data using BeautifulSoup  
       
-          - [ ] Notebook: https://github.com/ruch798/Movies-and-TV-shows
-          - [ ] Notebook: https://jovian.ai/viewer?url=https%3A%2F%2Fgithub.com%2Fruch798%2FMovies-and-TV-shows%2Fblob%2Fmaster%2FData_scraping.ipynb
-          - [ ] Watch: https://www.youtube.com/watch?v=87Gx3U0BDlo
-          - [ ] Watch: https://www.youtube.com/watch?v=ng2o98k983k    
+          - Notebook: https://github.com/ruch798/Movies-and-TV-shows
+          - Notebook: https://jovian.ai/viewer?url=https%3A%2F%2Fgithub.com%2Fruch798%2FMovies-and-TV-shows%2Fblob%2Fmaster%2FData_scraping.ipynb
+          - Watch: https://www.youtube.com/watch?v=87Gx3U0BDlo
+          - Watch: https://www.youtube.com/watch?v=ng2o98k983k    
 
 **Problem Statement**     
 The objective of this project is to deliver insights to understand customer demands better and thus help developers to popularize the product. This project involves loading the data into data frame, cleaning the data, extracting statistics from the dataset, exploratory analysis and visualizations, and asking & answering questions.  
@@ -40,8 +40,8 @@ The aim of this project is to find out which are the most relevant features that
            - profile.to_notebook_iframe()
            - profile.to_file("your_report.html")     
      - Correlation 
-- [ ] Dataset Cleaning 
-     - [ ] Answer the questions   
+- Dataset Cleaning 
+     - Answer the questions   
           
            - .dropna() — drop NaN values (if needed) 
            - .fillna() — impute NaN values (if needed) 
