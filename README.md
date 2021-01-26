@@ -68,11 +68,16 @@ The aim of this project is to find out which are the most relevant features that
 
 **Project Outline & Timeline**  
 
-  | Task               | Date         | Link                   | Status                |  
-  |--------------------|--------------|------------------------|-----------------------|  
-  | "XML HTTP request" | pascalCase   | `XmlHttpRequest`       | `XMLHTTPRequest`      |  
-  | "new customer ID"  | camelCase    | `newCustomerId`        | `newCustomerID`       |  
-
+  | Task                                 | End Date     | Status                                                                 
+  |--------------------------------------|--------------|---------------------------------------------------------------------  
+  | Webscrap the Dataset - Watch Videos  | 1/26         | In- Progress                                                       
+  | Practise - Beautiful Soup            | 1/25         |                                                         
+  | Dataset Preparation                  | TBD          |                                                    
+  | Dataset Cleaning                     | TBD          | `newCustomerId`                                                     
+  | EDA and Data Visualization           | TBD          | `XmlHttpRequest`                                                       
+  | Conclusion                           | TBD          | `newCustomerId`                                                        
+  | "XML HTTP request"                   | TBD          | `XmlHttpRequest`                                                       
+  | "new customer ID"                    | TBD          | `newCustomerId`                                                      
 
 - [ ] Webscrap the Dataset
     - [ ] Watch videos on Web scrapping and practise a sample web scrapping - 1/26 
