@@ -68,6 +68,12 @@ The aim of this project is to find out which are the most relevant features that
 
 **Project Outline & Timeline**  
 
+  | Task               | Date         | Link                   | Status                |  
+  |--------------------|--------------|------------------------|-----------------------|  
+  | "XML HTTP request" | pascalCase   | `XmlHttpRequest`       | `XMLHTTPRequest`      |  
+  | "new customer ID"  | camelCase    | `newCustomerId`        | `newCustomerID`       |  
+
+
 - [ ] Webscrap the Dataset
     - [ ] Watch videos on Web scrapping and practise a sample web scrapping - 1/26 
     - [ ] Webscrap the NetFlix, Amazon Prime, Disney+ and Hulu data using BeautifulSoup  
