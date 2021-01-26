@@ -45,6 +45,11 @@ Outline for a Data Analysis Project
 - [ ] Webscrap the Dataset
     - [ ] Watch videos on Web scrapping 
     - [ ] Webscrap the NetFlix, Amazon Prime, Disney+ and Hulu data using BeautifulSoup  
+      
+          - [ ] Notebook: https://github.com/ruch798/Movies-and-TV-shows
+          - [ ] Notebook: https://jovian.ai/viewer?url=https%3A%2F%2Fgithub.com%2Fruch798%2FMovies-and-TV-shows%2Fblob%2Fmaster%2FData_scraping.ipynb
+          - [ ] Watch: https://www.youtube.com/watch?v=87Gx3U0BDlo
+          - [ ] Watch: https://www.youtube.com/watch?v=ng2o98k983k
 - [ ] Dataset Preparation 
     - [ ] What are the questions I can ask? 
      - [ ] df.describe()
