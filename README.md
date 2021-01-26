@@ -73,11 +73,11 @@ The aim of this project is to find out which are the most relevant features that
   | Webscrap the Dataset - Watch Videos  | 1/26         | In- Progress                                                       
   | Practise - Beautiful Soup            | 1/25         |                                                         
   | Dataset Preparation                  | TBD          |                                                    
-  | Dataset Cleaning                     | TBD          | `newCustomerId`                                                     
-  | EDA and Data Visualization           | TBD          | `XmlHttpRequest`                                                       
-  | Conclusion                           | TBD          | `newCustomerId`                                                        
-  | "XML HTTP request"                   | TBD          | `XmlHttpRequest`                                                       
-  | "new customer ID"                    | TBD          | `newCustomerId`                                                      
+  | Dataset Cleaning                     | TBD          |                                                       
+  | EDA and Data Visualization           | TBD          |                                                       
+  | Conclusion                           | TBD          |                                                        
+  |                                      | TBD          |                                                        
+  |                                      | TBD          |                                                     
 
 - [ ] Webscrap the Dataset
     - [ ] Watch videos on Web scrapping and practise a sample web scrapping - 1/26 
@@ -90,22 +90,22 @@ The aim of this project is to find out which are the most relevant features that
           - [ ] Watch: https://www.youtube.com/watch?v=ng2o98k983k
 - [ ] Dataset Preparation 
     - [ ] What are the questions I can ask? 
-     - [ ] df.describe()
+     - [ ] `df.describe()`
      - [ ] Variable-Specific EDA
      - [ ] Pandas profiling 
      
-      - [ ] profile = ProfileReport(df, title='Pandas Profiling Report', explorative=True)
-      - [ ] profile.to_widgets()
-      - [ ] profile.to_notebook_iframe()
-      - [ ] profile.to_file("your_report.html")
+      - [ ] `profile = ProfileReport(df, title='Pandas Profiling Report', explorative=True)`
+      - [ ] `profile.to_widgets()`
+      - [ ] `profile.to_notebook_iframe()`
+      - [ ] `profile.to_file("your_report.html")`
      - [ ] Correlation 
 - [ ] Dataset Cleaning 
      - [ ] Answer the questions   
           
-           - [ ] .dropna() — drop NaN values (if needed) 
-           - [ ] .fillna() — impute NaN values (if needed) 
-           - [ ] .drop_duplicates()— drop duplicate values (if needed) 
-           - [ ] .astype()— change a column data type (if needed) 
+           - [ ] `.dropna()` — drop NaN values (if needed) 
+           - [ ] `.fillna()` — impute NaN values (if needed) 
+           - [ ] `.drop_duplicates()` — drop duplicate values (if needed) 
+           - [ ] `.astype()` — change a column data type (if needed) 
 - [ ] EDA and Data Visualization 
     - [ ] Webscrap the Dataset
 - [ ] What is the Conclusion? 
