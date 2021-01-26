@@ -103,10 +103,10 @@ The aim of this project is to find out which are the most relevant features that
      - [ ] Correlation 
 - [ ] Dataset Cleaning 
          
-        `.dropna()` — drop NaN values (if needed) 
-        `.fillna()` — impute NaN values (if needed)                   
-        `.drop_duplicates()` — drop duplicate values (if needed)                
-        `.astype()` — change a column data type (if needed)                     
+        .dropna() — drop NaN values (if needed) 
+        .fillna() — impute NaN values (if needed)                   
+        .drop_duplicates() — drop duplicate values (if needed)                
+        .astype() — change a column data type (if needed)                     
 - [ ] EDA and Data Visualization 
     - [ ] Webscrap the Dataset
 - [ ] What is the Conclusion? 
