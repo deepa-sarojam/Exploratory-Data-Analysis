@@ -69,12 +69,13 @@ The aim of this project is to find out which are the most relevant features that
 **Project Outline & Timeline**  
 
 - [ ] Webscrap the Dataset
-    - [ ] Watch videos on Web scrapping  
+    - [ ] Watch videos on Web scrapping and practise a sample web scrapping - 1/26 
     - [ ] Webscrap the NetFlix, Amazon Prime, Disney+ and Hulu data using BeautifulSoup  
       
           - [ ] Notebook: https://github.com/ruch798/Movies-and-TV-shows
           - [ ] Notebook: https://jovian.ai/viewer?url=https%3A%2F%2Fgithub.com%2Fruch798%2FMovies-and-TV-shows%2Fblob%2Fmaster%2FData_scraping.ipynb
-          - [ ] Watch: https://www.youtube.com/watch?v=87Gx3U0BDlo
+          - [X] Watch: https://www.youtube.com/watch?v=87Gx3U0BDlo 
+           - [ ] Practise sample - 1/25
           - [ ] Watch: https://www.youtube.com/watch?v=ng2o98k983k
 - [ ] Dataset Preparation 
     - [ ] What are the questions I can ask? 
