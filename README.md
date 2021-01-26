@@ -2,6 +2,8 @@
 
 ## Step 1: Finding a Project Topic/Idea/Domain
 
+Use the Movies and TV shows available on Netflix, Amazon Prime, Disney+ and Hulu to draw insights on the popularity of the shows/movies, availabilty, IMDb ratings etc.             
+<add here>                    
 
           
 ## Step 2: Finding a Dataset for your Project
