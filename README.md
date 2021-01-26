@@ -2,12 +2,12 @@
 # Step 1: Finding a Project Topic/Idea/Domain
 # Step 2: Finding a Dataset for your Project
 
-**Selected Dataset**
-Dataset Title  
-Dataset Description   
-Dataset Link    
+**Selected Dataset**    
+Dataset Title     
+Dataset Description     
+Dataset Link      
 
-**Problem Statement**   
+**Problem Statement**     
 The objective of this project is to deliver insights to understand customer demands better and thus help developers to popularize the product. This project involves loading the data into data frame, cleaning the data, extracting statistics from the dataset, exploratory analysis and visualizations, and asking & answering questions.  
   
 The aim of this project is to find out which are the most relevant features that students consider to choose the preferred American university. Some of the essential questions for developing this project are related to the number of applications, admissions, and enrollments, cost of tuition and fees, cost of living on campus, types of degrees offered, and features of the states where universities are located (population and GDP).
@@ -43,14 +43,30 @@ Outline for a Data Analysis Project
 **Project Outline & Timeline**  
 
 - [ ] Webscrap the Dataset
+    - [ ] Watch videos on Web scrapping 
+    - [ ] Webscrap the NetFlix, Amazon Prime, Disney+ and Hulu data using BeautifulSoup  
+- [ ] Dataset Preparation 
+    - [ ] What are the questions I can ask? 
+     - [ ] df.describe()
+     - [ ] Variable-Specific EDA
+     - [ ] profile = ProfileReport(df, title='Pandas Profiling Report', explorative=True)
+     
+      - [ ] profile.to_widgets()
+      - [ ] profile.to_notebook_iframe()
+      - [ ] profile.to_file("your_report.html")
+     - [ ] Correlation 
+- [ ] Dataset Cleaning 
+     - [ ] Answer the questions   
+      - [ ] .dropna() — drop NaN values (if needed) 
+      - [ ] .fillna() — impute NaN values (if needed) 
+      - [ ] .drop_duplicates()— drop duplicate values (if needed) 
+      - [ ] .astype()— change a column data type (if needed) 
+- [ ] EDA and Data Visualization 
     - [ ] Webscrap the Dataset
-    - [ ] Webscrap the Dataset
-- [ ] Webscrap the Dataset
-- [ ] Webscrap the Dataset
-- [ ] Webscrap the Dataset
+- [ ] What is the Conclusion? 
+
 
 # Step 4: Executing & Iterating on your project
-
 
 **Project Deliverables**   
 
