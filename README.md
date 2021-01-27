@@ -37,6 +37,8 @@ The aim of this project is to find out which are the most relevant features that
      - Variable-Specific EDA
      - Pandas profiling 
           
+           - pip install pandas-profiling                             
+           - from pandas_profiling import ProfileReport                         
            - profile = ProfileReport(df, title='Pandas Profiling Report', explorative=True)
            - profile.to_widgets()
            - profile.to_notebook_iframe()
