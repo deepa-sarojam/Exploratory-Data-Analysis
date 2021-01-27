@@ -37,12 +37,11 @@ The aim of this project is to find out which are the most relevant features that
      - Variable-Specific EDA
      - Pandas profiling 
           
-           - pip install pandas-profiling                             
-           - from pandas_profiling import ProfileReport                         
-           - profile = ProfileReport(df, title='Pandas Profiling Report', explorative=True)
-           - profile.to_widgets()
-           - profile.to_notebook_iframe()
-           - profile.to_file("your_report.html")     
+           -!pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip                                                 
+           - from pandas_profiling import ProfileReport       
+           - profile = ProfileReport(movies_df, title='Pandas Profiling Report', html={‘style: {full_width= True}})               
+           - profile.to_notebook_iframe()                   
+           - profile.to_file("edaononlinestreaming_report.html")       
      - Correlation 
 - Dataset Cleaning 
      - Answer the questions   
@@ -95,9 +94,9 @@ The aim of this project is to find out which are the most relevant features that
           - [ ] Watch: https://www.youtube.com/watch?v=ng2o98k983k
 - [ ] Dataset Preparation 
     - [ ] What are the questions I can ask? 
-     - [ ] Describe - `df.describe()`
+     - [X] Describe - `df.describe()`
      - [ ] Variable-Specific EDA
-     - [ ] Pandas profiling 
+     - [X] Pandas profiling 
      
         `profile = ProfileReport(df, title='Pandas Profiling Report', explorative=True)`            
         `profile.to_widgets()`                    
