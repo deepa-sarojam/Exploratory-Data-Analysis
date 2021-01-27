@@ -74,7 +74,7 @@ The aim of this project is to find out which are the most relevant features that
 
   | Task                                 | End Date     | Status                                                                 
   |--------------------------------------|--------------|---------------------------------------------------------------------  
-  | Webscrap the Dataset - Watch Videos  | 1/26         | In- Progress                                                       
+  | Webscrap the Dataset - Watch Videos  | 1/27         | In- Progress                                                       
   | Practise - Beautiful Soup            | 1/27         | In- Progress                                                         
   | Dataset Preparation                  | TBD          |                                                    
   | Dataset Cleaning                     | TBD          |                                                       
@@ -111,16 +111,17 @@ The aim of this project is to find out which are the most relevant features that
         .astype() — change a column data type (if needed)                     
 - [ ] EDA and Data Visualization 
     - [ ] Webscrap the Dataset
-- [ ] What is the Conclusion? 
+- [ ] What is the Conclusion/Inferences? 
 
 
 ## Step 4: Executing & Iterating on your project
 
 **Project Deliverables**   
 
-- Jupyter notebook
+- Jupyter notebook (web scrapping - 2nd step)
 - EDA
 - Medium/LinkedIn Blog post
 - Portfolio (Streched)
 - Resume (Streched)
  
+## Step 5: Reference and Future Research
